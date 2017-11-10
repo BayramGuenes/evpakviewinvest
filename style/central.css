@@ -1,0 +1,32 @@
+<style type="text/css">
+
+.umrahmt{
+  border-color: darkgrey;
+  border-width: 1px;
+  border-style: solid; !important
+ }
+.zentriert{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inpfield{
+  width:11em;
+  min-width:11em;
+}
+
+.inpfieldlong{
+  width:20em;
+  min-width:20em;
+}
+
+
+#id_loginsect{
+  max-width:450px;
+  min-height:300px;
+  padding: 5px;
+}
+.p_loginsec{
+  line-height:60px;
+}
+</style>
